@@ -1,0 +1,2 @@
+this folder contains classes to export the summary while scanning is in process.
+this can e.g. be used to create a XML-Dump or directly produce gnuplot-data-files.

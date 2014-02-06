@@ -1,0 +1,2 @@
+perform some other sorts of analysis like:
+	count all words within payload and sort words by their occurrence

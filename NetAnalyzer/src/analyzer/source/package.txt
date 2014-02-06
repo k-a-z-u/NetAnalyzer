@@ -1,0 +1,3 @@
+data-sources for the analyzer like:
+	read all files from folders and pass them to the analyzer
+	sniff packets from network and pass re-assembled HTTP traffic to the analyzer

@@ -1,0 +1,3 @@
+contains a simple dictionary compression algorithm based on LZW77
+and inspired by the algorithm of:
+http://marknelson.us/2011/11/08/lzw-revisited/
