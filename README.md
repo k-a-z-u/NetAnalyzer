@@ -29,4 +29,4 @@ on the host machine. These statistics can be used in combination with measuremen
 of the machine's power consumption to compare the impact on traffic and power
 consumption of different compression algorithms on web data.
 
-![screenshot](http://imageshack.com/a/img703/1840/pom.gif)
+![screenshot](http://i.imgur.com/1qcvKLg.gif)
